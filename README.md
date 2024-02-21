@@ -1,7 +1,3 @@
-# Controle-de-Atendimento-de-Alunos
- Projeto final para a matéria de Programação Estruturada e Orientada a Objetos
-
-
 <h1 align="center">Controle de Atendimento de Alunos</h1>
 
 ---
@@ -15,8 +11,8 @@
 - Se trata de um sistema para facilitar o controle de dúvidas dos alunos nas disciplinas cursadas. O sistema é capaz de armazenar as solicitações de atendimento dos alunos com os professores.
 
 - O sistema deve guardar os seguintes dados de alunos e professores:
-    -- Professores: Matrícula, nome e disciplina
-    -- Alunos: Matrícula, nome, endereço e turma.
+    - Professores: Matrícula, nome e disciplina
+    - Alunos: Matrícula, nome, endereço e turma.
 
 - O sistema deve permitir o cadastro, listagem e remoção de alunos e professores. 
 
